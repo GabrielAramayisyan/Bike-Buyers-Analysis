@@ -1,6 +1,6 @@
 # Bike Buyers Analysis  
 
-![Power BI Dashboard](images/dashboard_screenshot.png)  
+![Power BI Dashboard](Power_BI_Dahboard.png)  
 
 ## **Project Overview**  
 - Cleaned and analyzed bike buyer data using **Excel** and **SQL**.  
