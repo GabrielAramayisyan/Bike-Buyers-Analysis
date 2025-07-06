@@ -11,5 +11,5 @@
 - Income and age strongly correlate with purchase decisions.  
 
 ## **View the Project**  
-- [Power BI Dashboard](link)  
+- [Power BI Dashboard](Bike_Buyers_Power_BI.pbix)  
 - [Excel Analysis](bike_buyers_Excel/dashboard.xlsx)
