@@ -13,3 +13,4 @@
 ## **View the Project**  
 - [Power BI Dashboard](Bike_Buyers_Power_BI.pbix)  
 - [Excel Analysis](Bike_Buyers_Excel.xlsx)
+- [PostgreSQL Code](Bike_Buyers_SQL.sql)
