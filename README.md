@@ -12,4 +12,4 @@
 
 ## **View the Project**  
 - [Power BI Dashboard](Bike_Buyers_Power_BI.pbix)  
-- [Excel Analysis](bike_buyers_Excel/dashboard.xlsx)
+- [Excel Analysis](Bike_Buyers_Excel.xlsx)
