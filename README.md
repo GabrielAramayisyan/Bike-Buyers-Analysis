@@ -48,8 +48,6 @@ A retail bike company wanted to identify:
 - [Excel Analysis](Bike_Buyers_Excel.xlsx)
 - [PostgreSQL Code](Bike_Buyers_SQL.sql)
 - [Raw Data](Bike_Buyers_CSV.csv)
-  
-
-
+---
 ![Power BI Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Screenshots/Power_BI_Dashboard.png)
 ![Excel Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Screenshots/Excel_Dashboard.png)
