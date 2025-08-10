@@ -51,4 +51,5 @@ A retail bike company wanted to identify:
   
 
 
-![Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Power_BI_Dahboard.png)
+![Power BI Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Screenshots/Power_BI_Dashboard.png)
+![Excel Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Screenshots/Excel_Dashboard.png)
