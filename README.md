@@ -47,7 +47,7 @@ A retail bike company wanted to identify:
 - [Power BI Dashboard](Bike_Buyers_Power_BI.pbix)
 - [Excel Analysis](Bike_Buyers_Excel.xlsx)
 - [PostgreSQL Code](Bike_Buyers_SQL.sql)
-- [Raw datasets](Bike_Buyers_CSV.csv)
+- [Raw Data](Bike_Buyers_CSV.csv)
   
 
 
