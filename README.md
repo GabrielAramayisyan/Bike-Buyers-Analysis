@@ -49,4 +49,6 @@ A retail bike company wanted to identify:
 - [PostgreSQL Code](Bike_Buyers_SQL.sql)
 - [Raw datasets](Bike_Buyers_CSV.csv)
   
-- ![Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Power_BI_Dahboard.png)
+
+
+![Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Power_BI_Dahboard.png)
