@@ -44,8 +44,8 @@ A retail bike company wanted to identify:
 ---
 
 ## Project Files
-- `[Power BI Dashboard](Bike_Buyers_Power_BI.pbix)` — Power BI dashboard
-- `[Excel Analysis](Bike_Buyers_Excel.xlsx)` — Pivot tables and charts
-- `[PostgreSQL Code](Bike_Buyers_SQL.sql)` — All SQL scripts used
-- `Bike_Buyers_CSV.csv` — Raw datasets
+- [Power BI Dashboard](Bike_Buyers_Power_BI.pbix)
+- [Excel Analysis](Bike_Buyers_Excel.xlsx)
+- [PostgreSQL Code](Bike_Buyers_SQL.sql)
+- [Raw datasets](Bike_Buyers_CSV.csv)
 
