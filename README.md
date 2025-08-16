@@ -38,7 +38,7 @@ A retail bike company wanted to identify:
 
 ## Business Recommendations
 - Launch “Eco-Commute” marketing campaigns targeting customers living ≤1 mile from work.
-- Introduce commuter-friendly bike models with comfort-oriented features for mid-aged professionals.
+- Introduce commuter-friendly bike models with comfort-oriented features for mid-aged customers.
 - Offer seasonal promotions in areas with high short-distance commuting.
 
 ---
@@ -49,5 +49,7 @@ A retail bike company wanted to identify:
 - [PostgreSQL Code](Bike_Buyers_SQL.sql)
 - [Raw Data](Bike_Buyers_CSV.csv)
 ---
+## Power BI Dashboard
 ![Power BI Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Screenshots/Power_BI_Dashboard.png)
+## Excel Dashboard
 ![Excel Dashboard Screenshot](https://github.com/GabrielAramayisyan/Bike-Buyers-Analysis/blob/main/Screenshots/Excel_Dashboard.png)
